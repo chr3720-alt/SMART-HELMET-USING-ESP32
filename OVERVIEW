@@ -3,6 +3,9 @@
 The **Smart Safety Helmet** is an embedded safety system designed to improve rider protection using sensors and microcontrollers. The system monitors helmet usage and riding conditions while providing alerts to enhance road safety. By integrating sensing, processing, and communication technologies, the helmet can detect unsafe situations and respond with warnings or notifications.
 
 This project demonstrates how **embedded systems and IoT technologies** can be used to build intelligent safety devices for transportation. The system can detect whether the helmet is worn properly and monitor environmental or accident-related conditions to improve rider safety.
+A custom Printed Circuit Board (PCB) for the system was designed using KiCad, enabling efficient hardware integration, compact design, and reliable circuit connections. The project demonstrates practical implementation of embedded electronics, sensor interfacing, and PCB design for wearable safety technology.
+
+The system highlights the integration of embedded systems, hardware prototyping, and PCB development to create a portable and scalable safety solution for riders.
 
 #### 🎯 Project Objective
 
