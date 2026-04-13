@@ -1,0 +1,37 @@
+## 📋 Requirements
+
+### 🔧 Hardware Requirements
+- ESP32 Microcontroller  
+- MQ-3 Alcohol Sensor  
+- MPU6050 Accelerometer & Gyroscope  
+- IR Sensor / Push Switch (Helmet Detection)  
+- Buzzer / LED for Alerts  
+- Jumper Wires  
+- Breadboard / PCB (KiCad Designed)  
+- Rechargeable Battery / Power Supply  
+
+---
+
+### 💻 Software Requirements
+- Arduino IDE  
+- ESP32 Board Package (ESP32 Core installed in Arduino IDE)  
+- Required Libraries:
+  - Wire.h (for I2C communication)
+  - MPU6050 library
+  - WiFi.h / BluetoothSerial.h (for communication)
+- Serial Monitor (for debugging)
+
+---
+
+### ⚙️ System Requirements
+- Laptop / PC for programming and monitoring  
+- USB Cable for ESP32 programming  
+- Stable power source  
+
+---
+
+### 🌐 Optional Requirements (Advanced Features)
+- GPS Module (for location tracking)  
+- GSM Module (for SMS alerts)  
+- Mobile App / Dashboard  
+- Cloud Platform (for data logging)  
